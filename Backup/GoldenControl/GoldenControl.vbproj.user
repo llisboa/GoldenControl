@@ -1,8 +1,0 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <StartArguments>-verinterv "01:00" -arquivolog "c:\imrj_log.txt"  -siteidip "RJ;10.0.0.51;SC;10.50.0.96" -sitesenhasysconn "FURLAN;IMRJ;FURLAN;IMSC"</StartArguments>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <StartArguments>-verinterv "01:00" -arquivolog "c:\imrj_log.txt"  -siteidip "RJ;10.0.0.51;SC;10.50.0.96" -sitesenhasysconn "FURLAN;IMRJ;FURLAN;IMSC"</StartArguments>
-  </PropertyGroup>
-</Project>
