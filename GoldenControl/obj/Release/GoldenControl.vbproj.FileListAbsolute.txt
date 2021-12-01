@@ -1,0 +1,16 @@
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\bin\Release\PsExec.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\bin\Release\GoldenControl.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\bin\Release\GoldenControl.pdb
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\bin\Release\GoldenControl.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\bin\Release\Icraft.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\GoldenControl.frmHelp.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\GoldenControl.Mais.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\GoldenControl.Princ.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\GoldenControl.Resources.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\GoldenControl.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\GoldenControl.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\GoldenControl.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\GoldenControl_V01.06\GoldenControl\obj\Release\GoldenControl.pdb
